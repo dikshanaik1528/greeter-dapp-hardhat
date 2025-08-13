@@ -8,13 +8,13 @@ This DApp allows users to **view** and **update** a greeting message stored on t
 📸 Screenshots
 
 **1. Local Node Running**
-![Hardhat Node](./output/ContractDeployment/image.png)
+![Hardhat Node](./output/NodeScreenshots)
 
 **2. Contract Deployment**
-![Deployment](./screenshots/deploy.png)
+![Deployment](./output/ContractDeployment/image.png)
 
 **3. Interaction Example**
-![Interaction](./screenshots/interact.png)
+![Interaction](./output/InteractionOutput)
 
 ---
 
